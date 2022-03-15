@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> using prompt and alert boxes<?title>
+<script type="text/javascript">
+var nmae;
+name=window.prompt("please enter your name");
+document.writeln("<h1>Hello."+name+".welcome to javascript progrming!</h1>");
+</script>
+</head>
+<body>
+<p>click refresh(or reload)to run this script again</p>
+</body
+</html>
